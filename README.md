@@ -1,5 +1,4 @@
 # Multi-User-Login
-# Project README
 
 ## Simple Login System
 
